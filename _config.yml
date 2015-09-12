@@ -35,18 +35,19 @@ purpose:
   - name: awareness
     url: null
     item: 2f16311a-5c5d-4218-b288-e91b55f2cc5b
+typography_spectrum: 0
 color:
   saturation: 1
   brandStrength: 0
-  rhythmicContrast: 0.75
+  lightness: 0.3518519
   brandColors:
     - '#f6fdff'
     - '#383761'
     - '#e4dfe6'
     - '#a296a4'
     - '#69607b'
-  lightness: 0.625
-layout_spectrum: 0.5023894
+  rhythmicContrast: 0.4342891
+layout_spectrum: 1
 cta:
   bucket: null
   version: null
