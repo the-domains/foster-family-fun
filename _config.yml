@@ -1,4 +1,8 @@
 favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 opengraph:
   image: null
   type: null
@@ -31,25 +35,20 @@ purpose:
   - name: awareness
     url: null
     item: 2f16311a-5c5d-4218-b288-e91b55f2cc5b
-typography_spectrum: 0
 color:
   saturation: 0.4557945
   brandStrength: 0
-  lightness: 0.4880525
+  rhythmicContrast: 0.3160096
   brandColors:
     - '#f6fdff'
     - '#383761'
     - '#e4dfe6'
     - '#a296a4'
     - '#69607b'
-  rhythmicContrast: 0.3160096
-cta:
-  bucket: null
-  version: null
-  domain: null
+  lightness: 0.4880525
+layout_spectrum: 0.5764635
 analytics:
   twitter: null
   google: null
   facebook: null
-layout_spectrum: 1
 name: Foster Family Fun
