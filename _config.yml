@@ -35,21 +35,21 @@ purpose:
 color:
   saturation: 0.9277181
   brandStrength: 0
-  lightness: 0.7568698
+  lightness: 0.3172043
   brandColors:
     - '#f6fdff'
     - '#383761'
     - '#e4dfe6'
     - '#a296a4'
     - '#69607b'
-  rhythmicContrast: 0.750896
-typography_spectrum: 0.5
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.5764635
+  rhythmicContrast: 1
+typography_spectrum: 1
+layout_spectrum: 0.3721625
 analytics:
   twitter: null
   google: null
   facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
