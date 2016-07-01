@@ -1,7 +1,9 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+favicon: null
+style: the-composer
+cta:
+  bucket: null
+  version: null
+  domain: null
 opengraph:
   image: null
   type: null
@@ -35,22 +37,20 @@ purpose:
     url: null
     item: 2f16311a-5c5d-4218-b288-e91b55f2cc5b
 color:
-  saturation: 0.005920805735513568
+  saturation: 0.1583034
   brandStrength: 0.1333357177209109
-  lightness: 0.048589477548375726
+  lightness: 0.4259259
   brandColors:
     - '#E1E6FA'
     - '#C4D7ED'
     - '#ABC8E2'
     - '#375D81'
     - '#183152'
-  rhythmicContrast: 0.758371165022254
-typography_spectrum: 0.16039156331680715
-style: the-composer
-cta:
-  bucket: null
-  version: null
-  domain: null
+  rhythmicContrast: 0.7583712
+typography_spectrum: 0.1603915633168072
 layout_spectrum: 0.3099284290801734
-favicon: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 name: Foster Family Fun
